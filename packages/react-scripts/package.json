@@ -1,5 +1,5 @@
 {
-  "name": "so_react_scripts",
+  "name": "@single_ops/react-scripts",
   "version": "5.0.1",
   "description": "SingleOps Configuration and scripts for Create React App.",
   "repository": {
@@ -103,5 +103,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
